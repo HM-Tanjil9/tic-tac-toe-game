@@ -10,3 +10,8 @@
   background-color: var(--yellow);
   flex-basis: 30%;
 }
+
+.card svg {
+  width: 30px;
+  height: 30px;
+}
